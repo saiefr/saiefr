@@ -1,3 +1,4 @@
+![Header](./github-header-banner)
 # 💫 About Me:
 I'm currently learning Gen AI Maths, and Cybersecurity foundations
 
