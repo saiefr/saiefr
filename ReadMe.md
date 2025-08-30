@@ -1,4 +1,4 @@
-![Header](./github-header-banner)
+![Header](./github-header-banner.png)
 # 💫 About Me:
 I'm currently learning Gen AI Maths, and Cybersecurity foundations
 
