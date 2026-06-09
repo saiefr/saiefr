@@ -1,9 +1,6 @@
-<!--
+<img width="2329" height="85" alt="image" src="https://github.com/user-attachments/assets/af278a45-35f8-4017-9b72-41484b19ec57" /><!--
   ─────────────────────────────────────────────────────────────────────────
   Profile README  ·  repo: saiefr/saiefr  ·  archivo: README.md
-  REQUISITO: subí también  terminal.svg  a la raíz del repo (misma carpeta).
-  La terminal se anima sola en GitHub porque el SVG va embebido como imagen.
-  Si no la ves moverse al toque, es caché de GitHub: hard-refresh (Ctrl+Shift+R).
   ─────────────────────────────────────────────────────────────────────────
 -->
 
@@ -23,8 +20,8 @@
 
 ```console
 saiefr@cs ~> cat ~/.stack
-python · c · sql   ·   learning: operating systems
-git · linux · obsidian · helix · zellij · fish
+python · c  ·   learning: operating systems
+git · linux · obsidian · fish
 intereses: IA · matemáticas · LegalTech
 
 saiefr@cs ~> ./contact --open
@@ -39,5 +36,6 @@ saiefr@cs ~> ./contact --open
 </div>
 
 <div align="center">
-<sub><code># present day, present time...  gracias por pasar por la terminal.</code></sub>
+<sub><code># Dream, not of what you are, but of what you want to be
+ gracias por pasar por la terminal.</code></sub>
 </div>
