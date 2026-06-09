@@ -15,10 +15,7 @@
 
 ```console
 saiefr@cs ~> cat ~/.stack
-python · c  ·   learning: operating systems
-git · linux · obsidian · fish
-intereses: IA · matemáticas · LegalTech
-
+intereses: IA · matemáticas · Ciberseguridad
 saiefr@cs ~> ./contact --open
 ```
 
