@@ -1,8 +1,8 @@
+<!--
   ─────────────────────────────────────────────────────────────────────────
   Profile README  ·  repo: saiefr/saiefr  ·  archivo: README.md
   ─────────────────────────────────────────────────────────────────────────
 -->
-
 <div align="center">
 
 [![saiefr — terminal](https://raw.githubusercontent.com/saiefr/saiefr/main/terminal.svg)](https://github.com/saiefr)
