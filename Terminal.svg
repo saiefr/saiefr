@@ -1,0 +1,84 @@
+<svg width="760" height="470" viewBox="0 0 760 470" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>samuel — terminal profile</title>
+<desc>Una terminal CRT de fósforo ámbar que tipea una sesión: whoami, neofetch y cat now.txt, presentando a Samuel: abogado legaltech y estudiante de ciberdefensa de Argentina.</desc>
+<defs>
+<radialGradient id="vig" cx="50%" cy="46%" r="75%">
+<stop offset="55%" stop-color="#000000" stop-opacity="0"/>
+<stop offset="100%" stop-color="#0a0710" stop-opacity="0.55"/>
+</radialGradient>
+<pattern id="scan" width="3" height="3" patternUnits="userSpaceOnUse">
+<rect width="3" height="3" fill="#000000" fill-opacity="0"/>
+<rect width="3" height="1" fill="#000000" fill-opacity="0.16"/>
+</pattern>
+<clipPath id="screenClip"><rect x="22" y="22" width="716" height="400" rx="10"/></clipPath>
+<clipPath id="c0"><rect x="42" y="69" width="0" height="20"/></clipPath>
+<clipPath id="c1"><rect x="42" y="91" width="0" height="20"/></clipPath>
+<clipPath id="c3"><rect x="42" y="135" width="0" height="20"/></clipPath>
+<clipPath id="c4"><rect x="42" y="157" width="0" height="20"/></clipPath>
+<clipPath id="c5"><rect x="42" y="179" width="0" height="20"/></clipPath>
+<clipPath id="c6"><rect x="42" y="201" width="0" height="20"/></clipPath>
+<clipPath id="c7"><rect x="42" y="223" width="0" height="20"/></clipPath>
+<clipPath id="c8"><rect x="42" y="245" width="0" height="20"/></clipPath>
+<clipPath id="c9"><rect x="42" y="267" width="0" height="20"/></clipPath>
+<clipPath id="c10"><rect x="42" y="289" width="0" height="20"/></clipPath>
+<clipPath id="c12"><rect x="42" y="333" width="0" height="20"/></clipPath>
+<clipPath id="c13"><rect x="42" y="355" width="0" height="20"/></clipPath>
+<clipPath id="c15"><rect x="42" y="399" width="0" height="20"/></clipPath>
+</defs>
+<style>text{font-family:'Courier New',ui-monospace,monospace;font-size:15px;
+filter:drop-shadow(0 0 1px rgba(232,168,56,.30))}
+.caret{fill:#e8a838;animation:caretmove 13s linear infinite,blink 1.06s steps(2,jump-none) infinite}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes caretmove{0%{transform:translate(261px,0px)}20%{transform:translate(261px,0px)}22%{transform:translate(279px,66px)}58%{transform:translate(279px,66px)}60%{transform:translate(306px,264px)}79%{transform:translate(306px,264px)}81%{transform:translate(207px,330px)}100%{transform:translate(207px,330px)}}
+.flick{animation:flick 5.5s ease-in-out infinite}
+@keyframes flick{0%,100%{opacity:.02}45%{opacity:.06}50%{opacity:.01}55%{opacity:.05}}
+#c0 rect{animation:t0 13s linear infinite}
+#c1 rect{animation:t1 13s linear infinite}
+#c3 rect{animation:t3 13s linear infinite}
+#c4 rect{animation:t4 13s linear infinite}
+#c5 rect{animation:t5 13s linear infinite}
+#c6 rect{animation:t6 13s linear infinite}
+#c7 rect{animation:t7 13s linear infinite}
+#c8 rect{animation:t8 13s linear infinite}
+#c9 rect{animation:t9 13s linear infinite}
+#c10 rect{animation:t10 13s linear infinite}
+#c12 rect{animation:t12 13s linear infinite}
+#c13 rect{animation:t13 13s linear infinite}
+#c15 rect{animation:t15 13s linear infinite}
+@keyframes t0{0%,3.0%{width:0}9.0%,100%{width:261px}}
+@keyframes t1{0%,11.0%{width:0}16.0%,100%{width:522px}}
+@keyframes t3{0%,22.0%{width:0}28.0%,100%{width:279px}}
+@keyframes t4{0%,30.0%{width:0}33.0%,100%{width:270px}}
+@keyframes t5{0%,33.6%{width:0}36.6%,100%{width:315px}}
+@keyframes t6{0%,37.2%{width:0}40.2%,100%{width:486px}}
+@keyframes t7{0%,40.8%{width:0}43.8%,100%{width:405px}}
+@keyframes t8{0%,44.4%{width:0}47.4%,100%{width:414px}}
+@keyframes t9{0%,48.0%{width:0}51.0%,100%{width:477px}}
+@keyframes t10{0%,51.6%{width:0}54.6%,100%{width:459px}}
+@keyframes t12{0%,61.0%{width:0}68.0%,100%{width:306px}}
+@keyframes t13{0%,70.0%{width:0}76.0%,100%{width:549px}}
+@keyframes t15{0%,80.0%{width:0}84.0%,100%{width:207px}}</style>
+
+<rect x="8" y="8" width="744" height="454" rx="16" fill="#140f1c" stroke="#2a2236" stroke-width="1"/>
+<rect x="22" y="22" width="716" height="400" rx="10" fill="#26202c"/>
+
+<g clip-path="url(#screenClip)">
+  <rect x="22" y="22" width="716" height="34" fill="#1c1626"/>
+  <circle cx="44" cy="39" r="5" fill="#cc5566"/>
+  <circle cx="64" cy="39" r="5" fill="#e8a838"/>
+  <circle cx="84" cy="39" r="5" fill="#8fae6b"/>
+  <text x="380.0" y="44" text-anchor="middle" font-family="'Courier New',monospace" font-size="13" fill="#9a7e8e">samuel@cs — fish 3.7</text>
+
+  
+<g clip-path="url(#c0)"><text x="42" y="84" xml:space="preserve"><tspan fill="#8fae6b" font-weight="700">samuel</tspan><tspan fill="#e8a838" font-weight="700">@ciberdefensa</tspan><tspan fill="#b584c0">:~$ </tspan><tspan fill="#f0d8c0">whoami</tspan></text></g>  <g clip-path="url(#c1)"><text x="42" y="106" xml:space="preserve"><tspan fill="#e6c2a0">abogado legaltech · estudiante de ciberdefensa · argentina</tspan></text></g>  <g clip-path="url(#c3)"><text x="42" y="150" xml:space="preserve"><tspan fill="#8fae6b" font-weight="700">samuel</tspan><tspan fill="#e8a838" font-weight="700">@ciberdefensa</tspan><tspan fill="#b584c0">:~$ </tspan><tspan fill="#f0d8c0">neofetch</tspan></text></g>  <g clip-path="url(#c4)"><text x="42" y="172" xml:space="preserve"><tspan fill="#ffc658">      /\          </tspan><tspan fill="#e6c2a0">   </tspan><tspan fill="#8fae6b" font-weight="700">samuel</tspan><tspan fill="#e8a838" font-weight="700">@cs</tspan></text></g>  <g clip-path="url(#c5)"><text x="42" y="194" xml:space="preserve"><tspan fill="#ffc658">     /  \         </tspan><tspan fill="#e6c2a0">   </tspan><tspan fill="#7a5e72">──────────────</tspan></text></g>  <g clip-path="url(#c6)"><text x="42" y="216" xml:space="preserve"><tspan fill="#e8a838">    / /\ \        </tspan><tspan fill="#e6c2a0">   </tspan><tspan fill="#cc5566" font-weight="700">role     </tspan><tspan fill="#e6c2a0">Abogado · LegalTech &amp; AI</tspan></text></g>  <g clip-path="url(#c7)"><text x="42" y="238" xml:space="preserve"><tspan fill="#e8a838">   / /  \ \       </tspan><tspan fill="#e6c2a0">   </tspan><tspan fill="#e8a838" font-weight="700">learn    </tspan><tspan fill="#e6c2a0">OS · C · Python</tspan></text></g>  <g clip-path="url(#c8)"><text x="42" y="260" xml:space="preserve"><tspan fill="#e8a838">  / /____\ \      </tspan><tspan fill="#e6c2a0">   </tspan><tspan fill="#8fae6b" font-weight="700">loves    </tspan><tspan fill="#e6c2a0">IA · matemáticas</tspan></text></g>  <g clip-path="url(#c9)"><text x="42" y="282" xml:space="preserve"><tspan fill="#e8a838"> /_/      \_\     </tspan><tspan fill="#e6c2a0">   </tspan><tspan fill="#6bac9f" font-weight="700">based    </tspan><tspan fill="#e6c2a0">Buenos Aires, Argentina</tspan></text></g>  <g clip-path="url(#c10)"><text x="42" y="304" xml:space="preserve"><tspan fill="#e8a838">                  </tspan><tspan fill="#e6c2a0">   </tspan><tspan fill="#7a8fc4" font-weight="700">shell    </tspan><tspan fill="#e6c2a0">fish · helix · zellij</tspan></text></g>  <g clip-path="url(#c12)"><text x="42" y="348" xml:space="preserve"><tspan fill="#8fae6b" font-weight="700">samuel</tspan><tspan fill="#e8a838" font-weight="700">@ciberdefensa</tspan><tspan fill="#b584c0">:~$ </tspan><tspan fill="#f0d8c0">cat now.txt</tspan></text></g>  <g clip-path="url(#c13)"><text x="42" y="370" xml:space="preserve"><tspan fill="#e6c2a0">construyendo donde el derecho se cruza con el código y la IA.</tspan></text></g>  <g clip-path="url(#c15)"><text x="42" y="414" xml:space="preserve"><tspan fill="#8fae6b" font-weight="700">samuel</tspan><tspan fill="#e8a838" font-weight="700">@ciberdefensa</tspan><tspan fill="#b584c0">:~$ </tspan></text></g>
+
+  <rect class="caret" x="42" y="70" width="10" height="16"/>
+
+  <rect x="22" y="22" width="716" height="400" fill="url(#scan)"/>
+  <rect x="22" y="22" width="716" height="400" fill="url(#vig)"/>
+  <rect class="flick" x="22" y="22" width="716" height="400" fill="#e8a838"/>
+</g>
+
+<circle cx="40" cy="446" r="4" fill="#e8a838"/>
+<text x="744" y="450" text-anchor="end" font-family="'Courier New',monospace" font-size="11" fill="#7a5e72">amber-wired // crt</text>
+</svg>
