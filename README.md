@@ -11,10 +11,6 @@
 
 <div align="center">
 
-<img height="160" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=saiefr&show_icons=true&hide_border=false&bg_color=26202c&title_color=e8a838&text_color=e6c2a0&icon_color=cc5566&border_color=7a5e72" />
-&nbsp;
-<img height="160" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiefr&layout=compact&hide_border=false&bg_color=26202c&title_color=e8a838&text_color=e6c2a0&border_color=7a5e72" />
-
 </div>
 
 ```console
