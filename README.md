@@ -1,4 +1,3 @@
-<img width="2329" height="85" alt="image" src="https://github.com/user-attachments/assets/af278a45-35f8-4017-9b72-41484b19ec57" /><!--
   ─────────────────────────────────────────────────────────────────────────
   Profile README  ·  repo: saiefr/saiefr  ·  archivo: README.md
   ─────────────────────────────────────────────────────────────────────────
