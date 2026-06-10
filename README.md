@@ -31,8 +31,8 @@
 ### `saiefr@cs:~$ cat ~/.stack`
 
 ```text
-languages   python · c · sql
-learning    operating systems · kernel internals
+languages   python · c · 
+learning    operating systems · calculus
 tools       git · linux · obsidian · helix · zellij · fish
 interests   AI · mathematics · LegalTech
 ```
